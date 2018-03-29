@@ -1,0 +1,4 @@
+https://librosa.github.io/librosa/segment.html#segment
+agglomerative(data, k[, clusterer, axis])	Bottom-up temporal segmentation.
+subsegment(data, frames[, n_segments, axis])	Sub-divide a segmentation by feature clustering.
+

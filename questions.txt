@@ -1,0 +1,3 @@
+Questions
+1. How do we deal with the different dimenions of the audio files
+2. Why do the files not have the people saying the same sounds, which ones should we comparing each one to?
